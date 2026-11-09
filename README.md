@@ -13,7 +13,7 @@ Static comparison page of short-term rental management companies serving **Metro
 
 ## Data rules
 
-- Facts come only from each company's public pages, as of `verified` dates (initial pass **2026-10-30**; all 6 rows re-verified **2026-11-04**).
+- Facts come only from each company's public pages, as of `verified` dates (initial pass **2026-10-30**; all 6 rows re-verified **2026-11-04**; 4 managers added **2026-11-09**: You Too Can Host, MasterHost, TruPorch Homes, Cire Homes).
 - Missing facts are **Not published**. Self-contradicting pages are flagged in the row (e.g. Awning's Atlanta page shows 5%, 10%, and 15% "starting" figures).
 - Independent; not affiliated with any company listed. Not legal/tax/investment advice.
 - City of Atlanta STR rules: https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental
@@ -26,4 +26,4 @@ python3 -c "import json; from pathlib import Path; d=json.load(open('managers.js
 
 ## Candidates for next pass
 
-Vacasa/Casago (Atlanta franchise operator), local co-hosts, and Decatur/Sandy Springs-specific rule summaries.
+Vacasa/Casago (Atlanta franchise operator), HostStarter, Southern Keys Hospitality, Skye Management, ATL STRS (Atlanta Short-Term Rental Solutions) (checked 2026-11-09 and skipped for now: thin pages, Gmail-only or conflicting contact info, or no published details), and Decatur/Sandy Springs-specific rule summaries.

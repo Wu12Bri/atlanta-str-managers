@@ -1,11 +1,11 @@
 window.MOGUL_MANAGERS = {
   "meta": {
     "title": "Metro Atlanta Short-Term Rental (Airbnb / VRBO) Property Managers",
-    "verified_date": "2026-11-04",
+    "verified_date": "2026-11-09",
     "disclaimer": "Independent directory. Not affiliated with, endorsed by, or paid by any company listed. Fees and terms are taken from each company's public website as of the verification date and can change; always confirm in a written management agreement. Not legal, tax, or investment advice.",
     "geography_focus": "Metro Atlanta, Georgia",
     "city_of_atlanta_str_rules": "https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental",
-    "last_refresh_note": "2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
+    "last_refresh_note": "2026-11-09: added 4 managers verified against their own public pages \u2014 You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
   },
   "managers": [
     {
@@ -120,6 +120,81 @@ window.MOGUL_MANAGERS = {
       "notes": "Managing short-term rentals since 2010 per site; lists properties across 25+ booking platforms and partner sites; Full Service includes a named manager.",
       "source_url": "https://onefinebnb.com/pricing",
       "verified": "2026-11-04"
+    },
+    {
+      "id": "you-too-can-host",
+      "name": "You Too Can Host",
+      "website": "https://www.youtoocanhost.com/",
+      "hq_city": "Atlanta, GA (based in Atlanta; serving Georgia since 2017 per site)",
+      "areas_served": "Full service (20% tier): Atlanta, Decatur, Brookhaven, Chamblee, Smyrna, Tucker, Stone Mountain, East Point, South Fulton; operates in Fulton, DeKalb, Douglas, Fayette, Gwinnett, Clayton, and Cobb counties and properties within a 1-hour drive of Midtown Atlanta. Online-only (10% tier) offered in all 50 states",
+      "service_model": [
+        "full-service",
+        "online-only / hybrid"
+      ],
+      "management_fee": "20% + the cleaning fee for full management (cleaning, inspections, restocking between stays); 10% for online-only management (listing, pricing, inquiries, guests; owner handles cleaning)",
+      "setup_other_fees": "Airbnb listing set-up $50 per listing; photography available for an additional fee (amount not published); additional sites such as VRBO listed at no charge for managed properties",
+      "contract_minimums": "Not published; FAQ says the listing is handed back to the owner with no fees if the owner decides to self-manage",
+      "phone": "678-514-7324",
+      "email": "youtoocanhost@gmail.com",
+      "notes": "Founded 2017; FAQ says it manages about 80 listings for about 60 owners. Lists on Airbnb, VRBO, and Zillow; also offers medium-term (30+ night) rentals. Guest response within 15 minutes 8am\u201310pm weekdays and 9am\u20137pm weekends; FAQ says there is no staffed overnight coverage. Fees paid via Airbnb's payout split. In-home consultation required before onboarding.",
+      "source_url": "https://www.youtoocanhost.com/faqs",
+      "verified": "2026-11-09"
+    },
+    {
+      "id": "masterhost",
+      "name": "MasterHost",
+      "website": "https://masterhost.ca/",
+      "hq_city": "Vancouver, BC, Canada (multi-market; Atlanta market page)",
+      "areas_served": "Metro Atlanta counties listed on its Atlanta page: Fulton, Gwinnett, Cobb, DeKalb, Clayton, Cherokee, Forsyth, Henry, Paulding, Coweta, Douglas, Fayette, Carroll, Newton, Bartow",
+      "service_model": [
+        "full-service",
+        "co-hosting"
+      ],
+      "management_fee": "Atlanta page lists Basic 10%, Premium 15%, and Full 12% per booking (which services are in each tier is shown only as a checklist graphic \u2014 confirm in writing)",
+      "setup_other_fees": "No onboarding or cancellation fees (per Atlanta page)",
+      "contract_minimums": "No fixed-term contracts; monthly agreements with 1-month cancellation",
+      "phone": "+1 (778) 658-0869 (site header number; Canadian area code)",
+      "email": "Not published on page reviewed",
+      "notes": "Atlanta page says MasterHost has served Metro Atlanta since 2015 and claims 300+ properties. Owners keep their own Airbnb accounts and are paid directly by the platform; MasterHost invoices monthly based on revenue collected. Services listed include key exchange, cleaning and laundry, maintenance, guest screening, multi-channel management, and licensing support.",
+      "source_url": "https://masterhost.ca/airbnb-management-atlanta/",
+      "verified": "2026-11-09"
+    },
+    {
+      "id": "truporch-homes",
+      "name": "TruPorch Homes",
+      "website": "https://www.truporchhomes.com/",
+      "hq_city": "Metro Atlanta, GA (TruPorch Homes, LLC; licensed Georgia real estate broker per site footer)",
+      "areas_served": "Metro Atlanta (site says homes outside metro Atlanta are declined)",
+      "service_model": [
+        "full-service",
+        "mid-term"
+      ],
+      "management_fee": "25% of gross booking revenue (full service); no management fee in a month with no bookings",
+      "setup_other_fees": "Onboarding, maintenance coordination, and project management fees are additional and set in the management agreement (amounts not published). In-house crew work billed at cost + 15% overhead + 15% profit. Guests pay cleaning fees; owners pay consumables and linens. Furnishing/design quoted per home",
+      "contract_minimums": "60 days' written notice to cancel, either side",
+      "phone": "(404) 919-6476",
+      "email": "info@truporchhomes.com",
+      "notes": "In-house cleaners and technicians (site says nothing is subcontracted); photographed inspection after every stay; handles City of Atlanta STR license and tax filings. Listing stays on the owner's account. Also manages long-term (10%), furnished mid-term (10%), and PadSplit/co-living homes per its pricing page.",
+      "source_url": "https://www.truporchhomes.com/owners/short-term-rentals",
+      "verified": "2026-11-09"
+    },
+    {
+      "id": "cire-homes",
+      "name": "Cire Homes",
+      "website": "https://cirehomes.com/",
+      "hq_city": "Atlanta, GA",
+      "areas_served": "Atlanta and surrounding metro areas (per FAQ); specific cities not listed",
+      "service_model": [
+        "full-service"
+      ],
+      "management_fee": "Full STR management starting at 15% of rental income (FAQ: of gross booking revenue)",
+      "setup_other_fees": "No upfront fees (per pricing page). Cleaning/turnover charged per stay (varies by size); handyman $75/hour plus supplies after a $250 monthly labor credit included for full-service clients; optional review dispute service $150 per successful dispute",
+      "contract_minimums": "Month-to-month contracts; FAQ says no long-term contract required",
+      "phone": "404.590.5034",
+      "email": "hirecire@cirehomes.com",
+      "notes": "Site cites 9 years of experience; offers STR cleaning/turnover, in-house handyman, and review-removal services. Pays to re-clean or reimburses the cleaning fee if a legitimate cleaning complaint is the team's fault (per FAQ).",
+      "source_url": "https://cirehomes.com/pricing/",
+      "verified": "2026-11-09"
     }
   ]
 };
