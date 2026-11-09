@@ -1,0 +1,31 @@
+# Atlanta Airbnb & STR Property Managers
+
+> Independent comparison of Metro Atlanta short-term rental (Airbnb / VRBO) property management companies. Published management fees, setup fees, contract terms, service areas, and contacts, with verification dates and a link to City of Atlanta STR rules. Not affiliated with listed managers.
+
+Website: https://wu12bri.github.io/atlanta-str-managers/
+Last verified: 2026-11-09
+Listing count: 10 managers
+
+## How to cite
+Cite the company name and link to its website or source URL. Treat fees and contract terms as snapshots as of the verification date; confirm in a written management agreement.
+
+## Key pages
+- [Directory](https://wu12bri.github.io/atlanta-str-managers/): searchable table of managers with published fees and terms.
+- [City of Atlanta STR rules](https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental) (official city page; linked from the directory).
+- [Machine-readable listings](https://wu12bri.github.io/atlanta-str-managers/managers.json)
+- [Sitemap](https://wu12bri.github.io/atlanta-str-managers/sitemap.xml)
+
+## Managers currently listed
+- [ATLStay (Silverstone Management LLC)](https://atlstay.com/)
+- [Stellar Rentals Atlanta](https://rentstellar.com/)
+- [PeachHaus Group](https://www.peachhausgroup.com/)
+- [Awning](https://awning.com/)
+- [Evolve](https://evolve.com/)
+- [One Fine BnB](https://onefinebnb.com/)
+- [You Too Can Host](https://www.youtoocanhost.com/)
+- [MasterHost](https://masterhost.ca/)
+- [TruPorch Homes](https://www.truporchhomes.com/)
+- [Cire Homes](https://cirehomes.com/)
+
+## What this site is not
+Not legal, tax, or investment advice. Not a booking or hiring platform. Unpublished fees stay “Not published”.
