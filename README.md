@@ -13,7 +13,7 @@ Static comparison page of short-term rental management companies serving **Metro
 
 ## Data rules
 
-- Facts come only from each company's public pages, as of `verified` dates (initial pass **2026-10-30**; all 6 rows re-verified **2026-11-04**; 4 managers added **2026-11-09**: You Too Can Host, MasterHost, TruPorch Homes, Cire Homes).
+- Facts come only from each company's public pages, as of `verified` dates (initial pass **2026-10-30**; all 6 rows re-verified **2026-11-04** and again **2026-11-11** (no fee changes); 4 managers added **2026-11-09**: You Too Can Host, MasterHost, TruPorch Homes, Cire Homes).
 - Missing facts are **Not published**. Self-contradicting pages are flagged in the row (e.g. Awning's Atlanta page shows 5%, 10%, and 15% "starting" figures).
 - Independent; not affiliated with any company listed. Not legal/tax/investment advice.
 - City of Atlanta STR rules: https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental

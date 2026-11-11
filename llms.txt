@@ -3,7 +3,7 @@
 > Independent comparison of Metro Atlanta short-term rental (Airbnb / VRBO) property management companies. Published management fees, setup fees, contract terms, service areas, and contacts, with verification dates and a link to City of Atlanta STR rules. Not affiliated with listed managers.
 
 Website: https://wu12bri.github.io/atlanta-str-managers/
-Last verified: 2026-11-09
+Last verified: 2026-11-11
 Listing count: 10 managers
 
 ## How to cite
