@@ -1,11 +1,11 @@
 window.MOGUL_MANAGERS = {
   "meta": {
     "title": "Metro Atlanta Short-Term Rental (Airbnb / VRBO) Property Managers",
-    "verified_date": "2026-11-11",
+    "verified_date": "2026-11-12",
     "disclaimer": "Independent directory. Not affiliated with, endorsed by, or paid by any company listed. Fees and terms are taken from each company's public website as of the verification date and can change; always confirm in a written management agreement. Not legal, tax, or investment advice.",
     "geography_focus": "Metro Atlanta, Georgia",
     "city_of_atlanta_str_rules": "https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental",
-    "last_refresh_note": "2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages \u2014 You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
+    "last_refresh_note": "2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10\u201320% of revenue (was 10\u201315%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages \u2014 You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
   },
   "managers": [
     {
@@ -17,14 +17,14 @@ window.MOGUL_MANAGERS = {
       "service_model": [
         "full-service"
       ],
-      "management_fee": "10\u201315% of booking revenue, all-inclusive; exact rate quoted in writing per property",
+      "management_fee": "10\u201320% of booking revenue, all-inclusive; exact rate quoted in writing per property",
       "setup_other_fees": "No setup/onboarding fee; site lists no monthly minimum, cleaning markup, restocking, photography, or platform fees",
       "contract_minimums": "No long-term contract; no early cancellation penalty; no minimum bookings or revenue; 6-month happiness guarantee on standard management agreement (per pricing page)",
       "phone": "(770) 999-9740",
       "email": "Hello@ATLStay.com",
-      "notes": "Airbnb, Vrbo, Booking.com distribution; also offers mid-term and long-term management (quoted separately). Pricing page says the first month's management fee applies only after the first guest checks in.",
+      "notes": "Airbnb, Vrbo, Booking.com distribution; also offers mid-term and long-term management (quoted separately). Pricing page says the first month's management fee applies only after the first guest checks in. Published range widened from 10\u201315% (as checked 2026-11-04 and 2026-11-11) to 10\u201320% on the 2026-11-12 check.",
       "source_url": "https://atlstay.com/pricing/",
-      "verified": "2026-11-11"
+      "verified": "2026-11-12"
     },
     {
       "id": "stellar-rentals",
@@ -138,7 +138,7 @@ window.MOGUL_MANAGERS = {
       "email": "youtoocanhost@gmail.com",
       "notes": "Founded 2017; FAQ says it manages about 80 listings for about 60 owners. Lists on Airbnb, VRBO, and Zillow; also offers medium-term (30+ night) rentals. Guest response within 15 minutes 8am\u201310pm weekdays and 9am\u20137pm weekends; FAQ says there is no staffed overnight coverage. Fees paid via Airbnb's payout split. In-home consultation required before onboarding.",
       "source_url": "https://www.youtoocanhost.com/faqs",
-      "verified": "2026-11-09"
+      "verified": "2026-11-12"
     },
     {
       "id": "masterhost",
@@ -157,7 +157,7 @@ window.MOGUL_MANAGERS = {
       "email": "Not published on page reviewed",
       "notes": "Atlanta page says MasterHost has served Metro Atlanta since 2015 and claims 300+ properties. Owners keep their own Airbnb accounts and are paid directly by the platform; MasterHost invoices monthly based on revenue collected. Services listed include key exchange, cleaning and laundry, maintenance, guest screening, multi-channel management, and licensing support.",
       "source_url": "https://masterhost.ca/airbnb-management-atlanta/",
-      "verified": "2026-11-09"
+      "verified": "2026-11-12"
     },
     {
       "id": "truporch-homes",
@@ -176,7 +176,7 @@ window.MOGUL_MANAGERS = {
       "email": "info@truporchhomes.com",
       "notes": "In-house cleaners and technicians (site says nothing is subcontracted); photographed inspection after every stay; handles City of Atlanta STR license and tax filings. Listing stays on the owner's account. Also manages long-term (10%), furnished mid-term (10%), and PadSplit/co-living homes per its pricing page.",
       "source_url": "https://www.truporchhomes.com/owners/short-term-rentals",
-      "verified": "2026-11-09"
+      "verified": "2026-11-12"
     },
     {
       "id": "cire-homes",
@@ -194,7 +194,7 @@ window.MOGUL_MANAGERS = {
       "email": "hirecire@cirehomes.com",
       "notes": "Site cites 9 years of experience; offers STR cleaning/turnover, in-house handyman, and review-removal services. Pays to re-clean or reimburses the cleaning fee if a legitimate cleaning complaint is the team's fault (per FAQ).",
       "source_url": "https://cirehomes.com/pricing/",
-      "verified": "2026-11-09"
+      "verified": "2026-11-12"
     }
   ]
 };
