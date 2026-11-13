@@ -6,6 +6,8 @@ Website: https://wu12bri.github.io/atlanta-str-managers/
 Last verified: 2026-11-12
 Listing count: 10 managers
 
+The full comparison table is rendered in the page’s static HTML (no JavaScript needed) and mirrored in managers.json.
+
 ## How to cite
 Cite the company name and link to its website or source URL. Treat fees and contract terms as snapshots as of the verification date; confirm in a written management agreement.
 
