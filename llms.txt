@@ -3,8 +3,8 @@
 > Independent comparison of Metro Atlanta short-term rental (Airbnb / VRBO) property management companies. Published management fees, setup fees, contract terms, service areas, and contacts, with verification dates and a link to City of Atlanta STR rules. Not affiliated with listed managers.
 
 Website: https://wu12bri.github.io/atlanta-str-managers/
-Last verified: 2026-11-12
-Listing count: 10 managers
+Last verified: 2026-11-16
+Listing count: 12 managers
 
 The full comparison table is rendered in the page’s static HTML (no JavaScript needed) and mirrored in managers.json.
 
@@ -28,6 +28,8 @@ Cite the company name and link to its website or source URL. Treat fees and cont
 - [MasterHost](https://masterhost.ca/)
 - [TruPorch Homes](https://www.truporchhomes.com/)
 - [Cire Homes](https://cirehomes.com/)
+- [Crescent Key Hospitality Group](https://www.crescentkeyhospitality.com/)
+- [HostStarter](https://hoststarter.net/)
 
 ## What this site is not
 Not legal, tax, or investment advice. Not a booking or hiring platform. Unpublished fees stay “Not published”.

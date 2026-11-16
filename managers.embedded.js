@@ -1,11 +1,11 @@
 window.MOGUL_MANAGERS = {
   "meta": {
     "title": "Metro Atlanta Short-Term Rental (Airbnb / VRBO) Property Managers",
-    "verified_date": "2026-11-12",
+    "verified_date": "2026-11-16",
     "disclaimer": "Independent directory. Not affiliated with, endorsed by, or paid by any company listed. Fees and terms are taken from each company's public website as of the verification date and can change; always confirm in a written management agreement. Not legal, tax, or investment advice.",
     "geography_focus": "Metro Atlanta, Georgia",
     "city_of_atlanta_str_rules": "https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental",
-    "last_refresh_note": "2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10\u201320% of revenue (was 10\u201315%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages \u2014 You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
+    "last_refresh_note": "2026-11-16: added 2 managers verified against their own public pages: Crescent Key Hospitality Group (20% full-service, $0 tech fee, 12-month agreement cancelable after 90 days on 30 days' notice) and HostStarter (12.5% + $99/month, no contracts). Stellar Rentals' homepage tiers (10–15% / 15–25% / 25–30%, $350–$1,000 listing setup) re-checked with no change. Earlier: 2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10–20% of revenue (was 10–15%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages — You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
   },
   "managers": [
     {
@@ -17,12 +17,12 @@ window.MOGUL_MANAGERS = {
       "service_model": [
         "full-service"
       ],
-      "management_fee": "10\u201320% of booking revenue, all-inclusive; exact rate quoted in writing per property",
+      "management_fee": "10–20% of booking revenue, all-inclusive; exact rate quoted in writing per property",
       "setup_other_fees": "No setup/onboarding fee; site lists no monthly minimum, cleaning markup, restocking, photography, or platform fees",
       "contract_minimums": "No long-term contract; no early cancellation penalty; no minimum bookings or revenue; 6-month happiness guarantee on standard management agreement (per pricing page)",
       "phone": "(770) 999-9740",
       "email": "Hello@ATLStay.com",
-      "notes": "Airbnb, Vrbo, Booking.com distribution; also offers mid-term and long-term management (quoted separately). Pricing page says the first month's management fee applies only after the first guest checks in. Published range widened from 10\u201315% (as checked 2026-11-04 and 2026-11-11) to 10\u201320% on the 2026-11-12 check.",
+      "notes": "Airbnb, Vrbo, Booking.com distribution; also offers mid-term and long-term management (quoted separately). Pricing page says the first month's management fee applies only after the first guest checks in. Published range widened from 10–15% (as checked 2026-11-04 and 2026-11-11) to 10–20% on the 2026-11-12 check.",
       "source_url": "https://atlstay.com/pricing/",
       "verified": "2026-11-12"
     },
@@ -36,12 +36,12 @@ window.MOGUL_MANAGERS = {
         "full-service",
         "co-hosting"
       ],
-      "management_fee": "10\u201330% of booking revenue depending on service tier; site says most full-service owners pay 15\u201325%",
+      "management_fee": "10–30% of booking revenue depending on service tier; site says most full-service owners pay 15–25%",
       "setup_other_fees": "No monthly retainer (per Atlanta management page); setup fee not stated on page reviewed",
       "contract_minimums": "Not published",
       "phone": "Not published",
       "email": "rentstellar@gmail.com",
-      "notes": "Offers Airbnb co-hosting, VRBO management, corporate housing, and long-term leasing. Free compliance check for your address offered. Atlanta page says listing typically goes live 5\u201310 business days after walkthrough, with photography, pricing setup, and smart-lock installation included; owners keep their own Airbnb account.",
+      "notes": "Offers Airbnb co-hosting, VRBO management, corporate housing, and long-term leasing. Free compliance check for your address offered. Atlanta page says listing typically goes live 5–10 business days after walkthrough, with photography, pricing setup, and smart-lock installation included; owners keep their own Airbnb account.",
       "source_url": "https://rentstellar.com/atlanta-airbnb-management",
       "verified": "2026-11-11"
     },
@@ -57,7 +57,7 @@ window.MOGUL_MANAGERS = {
         "mid-term"
       ],
       "management_fee": "Short-term tiers: 12% Expert Online Management, 20% Premium, 25% Premium Plus. Separate hybrid/mid-term co-hosting program lists a 20% service fee",
-      "setup_other_fees": "\u201cLow setup fees apply\u201d \u2014 amount not published",
+      "setup_other_fees": "“Low setup fees apply” — amount not published",
       "contract_minimums": "Not published",
       "phone": "(404) 800-5932",
       "email": "info@peachhausgroup.com",
@@ -74,12 +74,12 @@ window.MOGUL_MANAGERS = {
       "service_model": [
         "full-service"
       ],
-      "management_fee": "Atlanta page says full-service \u201cstarting at 10% of revenue\u201d; the same page also shows \u201cStarts at 15%\u201d and \u201cStarts at 5%\u201d in other sections \u2014 confirm your rate in writing",
+      "management_fee": "Atlanta page says full-service “starting at 10% of revenue”; the same page also shows “Starts at 15%” and “Starts at 5%” in other sections — confirm your rate in writing",
       "setup_other_fees": "No setup fees (per FAQ)",
       "contract_minimums": "No long-term contract; no cancellation penalties; 90-day notice to cancel",
       "phone": "507-708-6805 (call/text); (415) 223-2830",
       "email": "Not published",
-      "notes": "Atlanta page says Awning manages 20,000+ properties across all 50 states. Referral program paying $500\u2013$2,000 per referred property (based on projected revenue) was seen on 2026-10-30; not re-checked 2026-11-04.",
+      "notes": "Atlanta page says Awning manages 20,000+ properties across all 50 states. Referral program paying $500–$2,000 per referred property (based on projected revenue) was seen on 2026-10-30; not re-checked 2026-11-04.",
       "source_url": "https://awning.com/airbnb-management/atlanta-georgia",
       "verified": "2026-11-11"
     },
@@ -88,7 +88,7 @@ window.MOGUL_MANAGERS = {
       "name": "Evolve",
       "website": "https://evolve.com/",
       "hq_city": "National (US)",
-      "areas_served": "National; Atlanta-specific coverage not stated on the page reviewed \u2014 confirm",
+      "areas_served": "National; Atlanta-specific coverage not stated on the page reviewed — confirm",
       "service_model": [
         "hybrid (you supply local cleaning/care)"
       ],
@@ -114,7 +114,7 @@ window.MOGUL_MANAGERS = {
       ],
       "management_fee": "Full Service from 20% of rental revenue; Partner Management (off-site) 10% (you keep your own cleaning and maintenance crew); BnBGenius software $10/month for any number of listings (AI voice concierge add-on $30/month)",
       "setup_other_fees": "One-time $500 onboarding retainer for Full Service and Partner Management (photography, listing creation; site says it is not a management fee and funds the property launch); no fixed charges after onboarding; fee charged on rental revenue only, not guest-paid cleaning fees, taxes, or deposits",
-      "contract_minimums": "Not stated on current pricing page (an earlier 2026-10-30 check noted 'no long-term contracts') \u2014 confirm in agreement",
+      "contract_minimums": "Not stated on current pricing page (an earlier 2026-10-30 check noted 'no long-term contracts') — confirm in agreement",
       "phone": "Owner line (512) 566-3800; sales (512) 866-2594; guest support (512) 333-2553",
       "email": "help@onefinebnb.com",
       "notes": "Managing short-term rentals since 2010 per site; lists properties across 25+ booking platforms and partner sites; Full Service includes a named manager.",
@@ -136,7 +136,7 @@ window.MOGUL_MANAGERS = {
       "contract_minimums": "Not published; FAQ says the listing is handed back to the owner with no fees if the owner decides to self-manage",
       "phone": "678-514-7324",
       "email": "youtoocanhost@gmail.com",
-      "notes": "Founded 2017; FAQ says it manages about 80 listings for about 60 owners. Lists on Airbnb, VRBO, and Zillow; also offers medium-term (30+ night) rentals. Guest response within 15 minutes 8am\u201310pm weekdays and 9am\u20137pm weekends; FAQ says there is no staffed overnight coverage. Fees paid via Airbnb's payout split. In-home consultation required before onboarding.",
+      "notes": "Founded 2017; FAQ says it manages about 80 listings for about 60 owners. Lists on Airbnb, VRBO, and Zillow; also offers medium-term (30+ night) rentals. Guest response within 15 minutes 8am–10pm weekdays and 9am–7pm weekends; FAQ says there is no staffed overnight coverage. Fees paid via Airbnb's payout split. In-home consultation required before onboarding.",
       "source_url": "https://www.youtoocanhost.com/faqs",
       "verified": "2026-11-12"
     },
@@ -150,7 +150,7 @@ window.MOGUL_MANAGERS = {
         "full-service",
         "co-hosting"
       ],
-      "management_fee": "Atlanta page lists Basic 10%, Premium 15%, and Full 12% per booking (which services are in each tier is shown only as a checklist graphic \u2014 confirm in writing)",
+      "management_fee": "Atlanta page lists Basic 10%, Premium 15%, and Full 12% per booking (which services are in each tier is shown only as a checklist graphic — confirm in writing)",
       "setup_other_fees": "No onboarding or cancellation fees (per Atlanta page)",
       "contract_minimums": "No fixed-term contracts; monthly agreements with 1-month cancellation",
       "phone": "+1 (778) 658-0869 (site header number; Canadian area code)",
@@ -195,6 +195,43 @@ window.MOGUL_MANAGERS = {
       "notes": "Site cites 9 years of experience; offers STR cleaning/turnover, in-house handyman, and review-removal services. Pays to re-clean or reimburses the cleaning fee if a legitimate cleaning complaint is the team's fault (per FAQ).",
       "source_url": "https://cirehomes.com/pricing/",
       "verified": "2026-11-12"
+    },
+    {
+      "id": "crescent-key",
+      "name": "Crescent Key Hospitality Group",
+      "website": "https://www.crescentkeyhospitality.com/",
+      "hq_city": "Savannah, GA (site says Savannah-rooted, serving qualified properties across Georgia)",
+      "areas_served": "Atlanta (dedicated Atlanta market page covering Midtown, Old Fourth Ward/Eastside, Buckhead and West Midtown); also Savannah. Site says it does not imply a full-time staffed office in every Atlanta neighborhood; vendor and emergency arrangements are set per property",
+      "service_model": [
+        "full-service",
+        "mid-term"
+      ],
+      "management_fee": "20% of applicable gross revenue (standard full-service); $0 technology fee",
+      "setup_other_fees": "No management setup fee and no markup on maintenance or photography (per Atlanta page); cleaning, distribution/platform costs and other property expenses billed separately under the agreement",
+      "contract_minimums": "Standard 12-month agreement; owner may cancel after the first 90 days with 30 days' written notice and no early-termination fee",
+      "phone": "Not published on Atlanta page",
+      "email": "Not published on Atlanta page",
+      "notes": "Conditional fee waiver for accepted properties: if eligible monthly gross falls below 70% of the agreed forecast and the owner meets its written Success Checklist and contract conditions, the 20% fee is waived that month. The site states this is not guaranteed rent and does not repay shortfalls. Also manages furnished longer stays.",
+      "source_url": "https://www.crescentkeyhospitality.com/markets/atlanta.html",
+      "verified": "2026-11-16"
+    },
+    {
+      "id": "hoststarter",
+      "name": "HostStarter",
+      "website": "https://hoststarter.net/",
+      "hq_city": "Not published (operates in 33 US and Canada markets per site)",
+      "areas_served": "Atlanta (dedicated Atlanta, GA page); also Savannah and other markets",
+      "service_model": [
+        "full-service"
+      ],
+      "management_fee": "12.5% of revenue plus a $99/month software fee",
+      "setup_other_fees": "Site says no setup fees, no onboarding fees and no maintenance markups",
+      "contract_minimums": "No long-term contracts (per site)",
+      "phone": "469-324-0864",
+      "email": "hoststarterhelp@gmail.com",
+      "notes": "Atlanta page says it handles STR license renewals for Atlanta properties it manages and goes live in 7–14 days. Revenue and occupancy figures on its pages are its own marketing estimates, not verified here.",
+      "source_url": "https://hoststarter.net/atlanta/",
+      "verified": "2026-11-16"
     }
   ]
 };
