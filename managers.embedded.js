@@ -1,11 +1,11 @@
 window.MOGUL_MANAGERS = {
   "meta": {
     "title": "Metro Atlanta Short-Term Rental (Airbnb / VRBO) Property Managers",
-    "verified_date": "2026-11-16",
+    "verified_date": "2026-11-17",
     "disclaimer": "Independent directory. Not affiliated with, endorsed by, or paid by any company listed. Fees and terms are taken from each company's public website as of the verification date and can change; always confirm in a written management agreement. Not legal, tax, or investment advice.",
     "geography_focus": "Metro Atlanta, Georgia",
     "city_of_atlanta_str_rules": "https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental",
-    "last_refresh_note": "2026-11-16: added 2 managers verified against their own public pages: Crescent Key Hospitality Group (20% full-service, $0 tech fee, 12-month agreement cancelable after 90 days on 30 days' notice) and HostStarter (12.5% + $99/month, no contracts). Stellar Rentals' homepage tiers (10–15% / 15–25% / 25–30%, $350–$1,000 listing setup) re-checked with no change. Earlier: 2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10–20% of revenue (was 10–15%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages — You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
+    "last_refresh_note": "2026-11-17: PeachHaus (12% / 20% / 25% tiers, setup fee not published), Evolve (Core 10%, Plus 15%, Pro custom, $250 onboarding) and Awning (from 10%, no setup fee, 90-day notice) re-verified with no fee changes; Awning's contact details updated to the phone and email now shown on its Atlanta page (+1 415-612-5985, hello@awning.com). Earlier: 2026-11-16: added 2 managers verified against their own public pages: Crescent Key Hospitality Group (20% full-service, $0 tech fee, 12-month agreement cancelable after 90 days on 30 days' notice) and HostStarter (12.5% + $99/month, no contracts). Stellar Rentals' homepage tiers (10–15% / 15–25% / 25–30%, $350–$1,000 listing setup) re-checked with no change. Earlier: 2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10–20% of revenue (was 10–15%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages — You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
   },
   "managers": [
     {
@@ -63,7 +63,7 @@ window.MOGUL_MANAGERS = {
       "email": "info@peachhausgroup.com",
       "notes": "Also manages mid-term (insurance/corporate housing) and long-term rentals; publishes Realtor and investor partner pages. Site says it has managed 100+ STR properties in Metro Atlanta.",
       "source_url": "https://www.peachhausgroup.com/short-term-rentals",
-      "verified": "2026-11-11"
+      "verified": "2026-11-17"
     },
     {
       "id": "awning",
@@ -77,11 +77,11 @@ window.MOGUL_MANAGERS = {
       "management_fee": "Atlanta page says full-service “starting at 10% of revenue”; the same page also shows “Starts at 15%” and “Starts at 5%” in other sections — confirm your rate in writing",
       "setup_other_fees": "No setup fees (per FAQ)",
       "contract_minimums": "No long-term contract; no cancellation penalties; 90-day notice to cancel",
-      "phone": "507-708-6805 (call/text); (415) 223-2830",
-      "email": "Not published",
-      "notes": "Atlanta page says Awning manages 20,000+ properties across all 50 states. Referral program paying $500–$2,000 per referred property (based on projected revenue) was seen on 2026-10-30; not re-checked 2026-11-04.",
+      "phone": "+1 415-612-5985 (listed on Atlanta page 2026-11-17)",
+      "email": "hello@awning.com",
+      "notes": "Atlanta page says Awning manages 20,000+ properties across all 50 states and lists homes on 50+ channels (Airbnb, Vrbo, Booking.com and more). Referral program paying $500–$2,000 per referred property (based on projected revenue) was seen on 2026-10-30; not re-checked 2026-11-04.",
       "source_url": "https://awning.com/airbnb-management/atlanta-georgia",
-      "verified": "2026-11-11"
+      "verified": "2026-11-17"
     },
     {
       "id": "evolve",
@@ -99,7 +99,7 @@ window.MOGUL_MANAGERS = {
       "email": "Not published",
       "notes": "Hybrid model: Evolve handles listing, pricing, distribution, and guest communication; owner keeps local team / chooses a local Guest Contact. Damage protection $5k (Core) / $10k (Plus) plus $1M liability per site. New Mid-Term Rental Add-On (28+ night stays) listed at $249 per listing per year. Owner referral program (up to $400) seen 2026-10-30; not re-checked 2026-11-04.",
       "source_url": "https://evolve.com/owner/vacation-rental-management",
-      "verified": "2026-11-11"
+      "verified": "2026-11-17"
     },
     {
       "id": "one-fine-bnb",
