@@ -1,11 +1,11 @@
 window.MOGUL_MANAGERS = {
   "meta": {
     "title": "Metro Atlanta Short-Term Rental (Airbnb / VRBO) Property Managers",
-    "verified_date": "2026-11-17",
+    "verified_date": "2026-11-18",
     "disclaimer": "Independent directory. Not affiliated with, endorsed by, or paid by any company listed. Fees and terms are taken from each company's public website as of the verification date and can change; always confirm in a written management agreement. Not legal, tax, or investment advice.",
     "geography_focus": "Metro Atlanta, Georgia",
     "city_of_atlanta_str_rules": "https://www.atlantaga.gov/government/departments/city-planning/ordinances-regulations/short-term-rental",
-    "last_refresh_note": "2026-11-17: PeachHaus (12% / 20% / 25% tiers, setup fee not published), Evolve (Core 10%, Plus 15%, Pro custom, $250 onboarding) and Awning (from 10%, no setup fee, 90-day notice) re-verified with no fee changes; Awning's contact details updated to the phone and email now shown on its Atlanta page (+1 415-612-5985, hello@awning.com). Earlier: 2026-11-16: added 2 managers verified against their own public pages: Crescent Key Hospitality Group (20% full-service, $0 tech fee, 12-month agreement cancelable after 90 days on 30 days' notice) and HostStarter (12.5% + $99/month, no contracts). Stellar Rentals' homepage tiers (10–15% / 15–25% / 25–30%, $350–$1,000 listing setup) re-checked with no change. Earlier: 2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10–20% of revenue (was 10–15%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages — You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
+    "last_refresh_note": "2026-11-18: Stellar Rentals, One Fine BnB and ATLStay re-verified against their own live pages with no headline fee changes. Stellar's row now shows its published tiers (Messaging & Coordination 10–15%, Full Management 15–25%, White-Glove 25–30%), $350–$1,000 listing setup fee and 'no retainer, no contract' terms from its homepage pricing section; One Fine BnB's Atlanta page now states 'No long-term contracts' (Full Service from 20%, Partner 10%, $500 onboarding retainer unchanged); ATLStay unchanged (10–20% all-inclusive, no setup fee, no long-term contract). Earlier: 2026-11-17: PeachHaus (12% / 20% / 25% tiers, setup fee not published), Evolve (Core 10%, Plus 15%, Pro custom, $250 onboarding) and Awning (from 10%, no setup fee, 90-day notice) re-verified with no fee changes; Awning's contact details updated to the phone and email now shown on its Atlanta page (+1 415-612-5985, hello@awning.com). Earlier: 2026-11-16: added 2 managers verified against their own public pages: Crescent Key Hospitality Group (20% full-service, $0 tech fee, 12-month agreement cancelable after 90 days on 30 days' notice) and HostStarter (12.5% + $99/month, no contracts). Stellar Rentals' homepage tiers (10–15% / 15–25% / 25–30%, $350–$1,000 listing setup) re-checked with no change. Earlier: 2026-11-12: ATLStay's pricing page now lists an all-inclusive fee of 10–20% of revenue (was 10–15%); the 4 managers added 11/09 (You Too Can Host, MasterHost, TruPorch Homes, Cire Homes) re-verified with no fee changes. Earlier: 2026-11-11: the original 6 managers (ATLStay, Stellar Rentals, PeachHaus, Awning, Evolve, One Fine BnB) re-verified against their live pricing pages with no fee changes; One Fine BnB onboarding wording clarified per its pricing FAQ. Earlier: 2026-11-09: added 4 managers verified against their own public pages — You Too Can Host (Atlanta, 20% + cleaning / 10% online-only), MasterHost (Atlanta page, 10%/15%/12% tiers), TruPorch Homes (25% full service, 60-day notice), and Cire Homes (from 15%, month-to-month). The original 6 rows keep their 2026-11-04 verification dates. Earlier: 2026-11-04 re-verification: all 6 managers re-checked against their live public pages. No headline fee changes. ATLStay: published email/address and 6-month guarantee added. Evolve: Risk-Free Guarantee and $249/yr mid-term add-on added. One Fine BnB: email and guest line added; 'no long-term contracts' no longer stated on pricing page, so field now says not stated. Stellar, PeachHaus, Awning: minor details added."
   },
   "managers": [
     {
@@ -24,7 +24,7 @@ window.MOGUL_MANAGERS = {
       "email": "Hello@ATLStay.com",
       "notes": "Airbnb, Vrbo, Booking.com distribution; also offers mid-term and long-term management (quoted separately). Pricing page says the first month's management fee applies only after the first guest checks in. Published range widened from 10–15% (as checked 2026-11-04 and 2026-11-11) to 10–20% on the 2026-11-12 check.",
       "source_url": "https://atlstay.com/pricing/",
-      "verified": "2026-11-12"
+      "verified": "2026-11-18"
     },
     {
       "id": "stellar-rentals",
@@ -36,14 +36,14 @@ window.MOGUL_MANAGERS = {
         "full-service",
         "co-hosting"
       ],
-      "management_fee": "10–30% of booking revenue depending on service tier; site says most full-service owners pay 15–25%",
-      "setup_other_fees": "No monthly retainer (per Atlanta management page); setup fee not stated on page reviewed",
-      "contract_minimums": "Not published",
+      "management_fee": "10–30% of booking revenue depending on service tier: Messaging & Coordination 10–15%, Full Management 15–25%, White-Glove 25–30% (homepage pricing); Atlanta page says most full-service owners pay 15–25%",
+      "setup_other_fees": "No monthly retainer; listing setup fee $350–$1,000 depending on property condition and scope (per homepage pricing section)",
+      "contract_minimums": "No contract for short-term rental management per homepage ('No retainer, no contract'); long-term (12-month lease) management quoted per property",
       "phone": "Not published",
       "email": "rentstellar@gmail.com",
       "notes": "Offers Airbnb co-hosting, VRBO management, corporate housing, and long-term leasing. Free compliance check for your address offered. Atlanta page says listing typically goes live 5–10 business days after walkthrough, with photography, pricing setup, and smart-lock installation included; owners keep their own Airbnb account.",
       "source_url": "https://rentstellar.com/atlanta-airbnb-management",
-      "verified": "2026-11-11"
+      "verified": "2026-11-18"
     },
     {
       "id": "peachhaus",
@@ -112,14 +112,14 @@ window.MOGUL_MANAGERS = {
         "partner / off-site",
         "software only"
       ],
-      "management_fee": "Full Service from 20% of rental revenue; Partner Management (off-site) 10% (you keep your own cleaning and maintenance crew); BnBGenius software $10/month for any number of listings (AI voice concierge add-on $30/month)",
+      "management_fee": "Full Service from 20% of rental revenue; Partner Management (off-site) 10% (you keep your own cleaning and maintenance crew); BnBGenius software $10/month for any number of listings (free tier covers the first 500 messages; AI voice concierge add-on $30/month)",
       "setup_other_fees": "One-time $500 onboarding retainer for Full Service and Partner Management (photography, listing creation; site says it is not a management fee and funds the property launch); no fixed charges after onboarding; fee charged on rental revenue only, not guest-paid cleaning fees, taxes, or deposits",
-      "contract_minimums": "Not stated on current pricing page (an earlier 2026-10-30 check noted 'no long-term contracts') — confirm in agreement",
+      "contract_minimums": "No long-term contracts per its Atlanta page ('You are not locked into a long-term agreement'); pricing page does not state a term or notice period — confirm in agreement",
       "phone": "Owner line (512) 566-3800; sales (512) 866-2594; guest support (512) 333-2553",
       "email": "help@onefinebnb.com",
       "notes": "Managing short-term rentals since 2010 per site; lists properties across 25+ booking platforms and partner sites; Full Service includes a named manager.",
       "source_url": "https://onefinebnb.com/pricing",
-      "verified": "2026-11-11"
+      "verified": "2026-11-18"
     },
     {
       "id": "you-too-can-host",
